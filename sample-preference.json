@@ -1,0 +1,91 @@
+{
+"alice":
+    {
+        "gender":
+            {
+                "male":   9,
+                "female": 1
+            },
+        "age":
+            {
+                "20-24":  3,
+                "25-29":  6,
+                "30-34":  1,
+                "35-39":  0
+            },
+        "body":
+            {
+                "athletic":  5,
+                "average":   4,
+                "slim":      1,
+                "overweight":0
+            }
+    },
+"amy":
+    {
+        "gender":
+            {
+                "male":  20,
+                "female": 0
+            },
+        "age":
+            {
+                "20-24":  0,
+                "25-29":  5,
+                "30-34": 10,
+                "35-39":  5
+            },
+        "body":
+            {
+                "athletic":  18,
+                "average":   2,
+                "slim":      0,
+                "overweight":0
+            }
+    },
+"bob":
+    {
+        "gender":
+            {
+                "male":  5,
+                "female": 95
+            },
+        "age":
+            {
+                "20-24":  70,
+                "25-29":  20,
+                "30-34":  10,
+                "35-39":  0
+            },
+        "body":
+            {
+                "athletic":   0,
+                "average":   30,
+                "slim":      50,
+                "overweight":20
+            }
+    },
+"ben":
+    {
+        "gender":
+            {
+                "male":  0,
+                "female":50
+            },
+        "age":
+            {
+                "20-24":  5,
+                "25-29":  20,
+                "30-34":  20,
+                "35-39":  5
+            },
+        "body":
+            {
+                "athletic":   0,
+                "average":   20,
+                "slim":       5,
+                "overweight":25
+            }
+    }
+}
+

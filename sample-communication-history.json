@@ -1,0 +1,30 @@
+{
+"alice":
+    {
+        "alice":true,
+        "amy":  false,
+        "bob":  false,
+        "ben":  false
+    },
+"amy":
+    {
+        "alice":false,
+        "amy":  true,
+        "bob":  false,
+        "ben":  false
+    },
+"bob":
+    {
+        "alice":false,
+        "amy":  false,
+        "bob":  true,
+        "ben":  false
+    },
+"ben":
+    {
+        "alice":false,
+        "amy":  false,
+        "bob":  false,
+        "ben":  true
+    }
+}

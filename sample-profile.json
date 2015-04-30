@@ -1,0 +1,26 @@
+{
+"alice":
+    {
+        "gender":"female",
+        "age":   23,
+        "body": "slim"
+    },
+"amy":
+    {
+        "gender":"female",
+        "age":   30,
+        "body": "average"
+    },
+"bob":
+    {
+        "gender":"male",
+        "age":   26,
+        "body": "athletic"
+    },
+"ben":
+    {
+        "gender":"male",
+        "age":   33,
+        "body": "average"
+    }
+}
