@@ -65,7 +65,7 @@ def run():
                 else:
                     s_y = 2.0/(s_y**(-1)+s_x**(-1))
             S.append(s_y)
-        sorted_indices = [ i[0] for i in sorted(enumerate(S), key=lambda x:x[1]) ]
+        sorted_indices = [ i[0] for i in sorted(enumerate(S), key=lambda x:-x[1]) ]
        
         newR = []
         newS = []
